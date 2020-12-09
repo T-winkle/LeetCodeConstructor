@@ -16,6 +16,6 @@ When completing a LeetCode problem or after submission there are some use cases 
 ## **TODO**
  - Binary Tree Constructor
     - [ ] C/C++
-    - [ ] Java
+    - [x] Java
     - [x] JavaScript
     - [ ] Python

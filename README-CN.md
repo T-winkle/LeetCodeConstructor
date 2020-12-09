@@ -15,6 +15,6 @@
 ## **待办**
  - Binary Tree Constructor
     - [ ] C/C++
-    - [ ] Java
+    - [x] Java
     - [x] JavaScript
     - [ ] Python
